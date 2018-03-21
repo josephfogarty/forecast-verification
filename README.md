@@ -1,2 +1,4 @@
 # forecast-verification
-Code written to look at the different types of forecast verifications
+A Jupyter Notebook written to explore the different types of forecast verifications.
+
+A work in progress.
