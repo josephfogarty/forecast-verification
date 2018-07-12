@@ -14,4 +14,6 @@ SECTIONS:
 CONTRIBUTORS:
 1. Joseph Fogarty, Rutgers University
 
+If you would like to contribute, please contact me at jjf1295@gmail.com.
+
 For More Information: http://www.cawcr.gov.au/projects/verification/
