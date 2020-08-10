@@ -1,5 +1,5 @@
-# I promise I will continue this someday...
-# I am currently thinking of the best way to continue this (Jupyter Notebook or other platform)
+## Update: I promise I will continue this someday...
+I am currently thinking of the best way to continue this (Jupyter Notebook or other platform), as well as what content to add (even though there isn't much right now).
 
 # forecast-verification
 INTRODUCTION:
