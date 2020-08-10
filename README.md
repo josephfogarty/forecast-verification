@@ -1,3 +1,6 @@
+# I promise I will continue this someday...
+# I am currently thinking of the best way to continue this (Jupyter Notebook or other platform)
+
 # forecast-verification
 INTRODUCTION:
 A Jupyter Notebook written to explore the different types of forecast verifications.
